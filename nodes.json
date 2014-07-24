@@ -1,0 +1,44 @@
+[
+    {
+        "id": "550e8400-e29b-41d4-a716-446655440000",
+        "nodeName": "淘宝首页及活动页面",
+        "childNodes": [
+            {
+                "id": "999e8400-e29b-41d4-a716-999995440000",
+                "nodeName": "淘宝首页",
+                "childNodes": []
+            },
+            {
+                "id": "unique identifier",
+                "nodeName": "热牌大促 ￥1 起",
+                "childNodes": []
+            },
+            {
+                "id": "unique identifier",
+                "nodeName": "女装满299减100",
+                "childNodes": []
+            },
+            {
+                "id": "unique identifier",
+                "nodeName": "某个子节点",
+                "childNodes": [
+                    {
+                        "id": "unique identifier",
+                        "nodeName": "子节点的子节点，我们是无限层级的哟！",
+                        "childNodes": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "nodeName": "直接访问",
+        "id": "unique identifier",
+        "childNodes": []
+    },
+    {
+        "nodeName": "淘宝女人市场",
+        "id": "unique identifier",
+        "childNodes": []
+    }
+]
